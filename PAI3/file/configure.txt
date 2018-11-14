@@ -1,0 +1,11 @@
+# Algoritmo a usar
+
+algoritmo = HmacSHA256
+
+# Clave
+
+clave = qwerty
+
+# Fichero de incidencias y KPI
+
+bLogs = ./file/bLogs.txt
